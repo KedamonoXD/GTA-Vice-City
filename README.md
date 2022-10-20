@@ -1,4 +1,4 @@
-# GTA-Vice-City
+# GTA-Vice-City-Remastered
 MODS
 
 CLEO + ModLoader + ASI Loader: https://www.mediafire.com/file/x6y9agadjarcvo4/CLEO_%252B_ModLoader_%252B_ASI_Loader_para_GTA_Vice_City.7z/file
@@ -14,6 +14,18 @@ Remove 0:https://gamemodding.com/en/gta-vice-city/scripts/74012-udalenie-nuley.h
 
 
 GInput: https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles/
+
+
+Rosenberg's Audio Fix: https://www.gtagarage.com/mods/show.php?id=22234
+
+
+Destroyable Airtrain: https://www.gtagarage.com/mods/show.php?id=26526
+
+
+Cheat Menu by Grinch_ v3.2: https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch/
+
+
+Radio Change Down Fix: https://www.mixmods.com.br/2016/09/vc-radio-change-down-fix-corrigir-mudanca-de-radio/
 
 
 MODS
@@ -79,4 +91,4 @@ Atmosphere Skydome 2.0: https://libertycity.net/files/gta-vice-city/123186-vc-at
 Sand Castles: https://libertycity.net/files/gta-vice-city/125647-pesochnye-zamki.html
 
 
-PS2 Particle TXD: https://www.gtainside.com/en/vicecity/mods/155961-ps2-particle/
+Particle HD: https://www.mediafire.com/file/2cw27279e2wkxby/%2528VC%2529_Particle_HD.rar/file
