@@ -73,10 +73,10 @@ Sit: https://www.gtagarage.com/mods/show.php?id=18128
 News Chopper: https://www.mixmods.com.br/2016/10/vc-helicoptero-news-chopper-de-volta/
 
 
-SkyGfx: https://gtaforums.com/topic/750681-skygfx-ps2-xbox-and-mobile-graphics-for-pc/
+SkyGfx: https://www.mixmods.com.br/2020/02/iii-vc-skygfx-3-0b/
 
 
-Sharptrails: https://gtaforums.com/topic/819550-sharptrails/
+Sharptrails: https://www.mixmods.com.br/2018/04/iii-vc-sharp-trails-v2-0a-remover-rastro-blur/
 
 
 ParticleEx: https://www.mixmods.com.br/2021/10/iii-vc-particleex-sistema-de-efeitos-melhorado/
