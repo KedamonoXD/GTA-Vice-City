@@ -92,3 +92,6 @@ Sand Castles: https://libertycity.net/files/gta-vice-city/125647-pesochnye-zamki
 
 
 Particle HD: https://www.mediafire.com/file/2cw27279e2wkxby/%2528VC%2529_Particle_HD.rar/file
+
+
+Fijo de las ventanas después de la explosión: https://gamemodding.com/es/gta-vice-city/scripts/74009-fiks-okon-posle-vzryva.html
